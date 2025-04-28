@@ -4,7 +4,7 @@ title: Home
 aside:
   toc: true
 sidebar:
-  nav: critique
+  nav: navigation
 ---
 
 # 환영합니다!
