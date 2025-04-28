@@ -26,11 +26,7 @@ collections:
     output: true
     permalink: /:collection/:path/
 
-navigation:
-  critique:
-    - title: 새벽안개, 도파민, 그리고 코메디 | 2017년 개인전 비평
-      url: /docs/critique1/
-      
+
 lang: kr
 timezone: Asia/Seoul
 
