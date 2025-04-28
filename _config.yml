@@ -24,11 +24,23 @@ title   : BBblog
 description: > # this means to ignore newlines until "Language & timezone"
   Hi~
 
+navigation:
+  critique:
+    - title: 새벽안개, 도파민, 그리고 코메디 | 2017년 개인전 비평
+      url: /docs/critique1/
+    - title: Configuration
+      url: /docs/configuration/
+    - title: Navigation
+      url: /docs/navigation/
+    - title: Content
+      url: /docs/content/
+
+
 
 ## => Language and Timezone
 ##############################
-lang: # the language of your site, default as "en"
-timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for the available values
+lang: kr # the language of your site, default as "en"
+timezone: Asia/Seoul # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for the available values
 
 
 ## => Author and Social
