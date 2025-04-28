@@ -25,7 +25,7 @@ description: > # this means to ignore newlines until "Language & timezone"
   Hi~
 
 navigation:
-  critique:
+  critique: true
     - title: 새벽안개, 도파민, 그리고 코메디 | 2017년 개인전 비평
       url: /docs/critique1/
     - title: Configuration
