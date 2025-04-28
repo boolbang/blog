@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: doc
 title: "새벽안개, 도파민, 그리고 코메디 (2017)"
 nav: critique
 ---

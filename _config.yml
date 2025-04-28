@@ -35,6 +35,10 @@ navigation:
     - title: Content
       url: /docs/content/
 
+collections:
+  docs:
+    output: true
+    permalink: /docs/:path/
 
 
 ## => Language and Timezone
