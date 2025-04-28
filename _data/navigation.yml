@@ -1,16 +1,21 @@
-critique:
+header:
   - titles:
-      ko: 새벽안개, 도파민, 그리고 코메디 | 2017 개인전 비평
-    url: /docs/critique1/
+      en: Archive
+      ko: 아카이브
+    url: /archive.html
 
   - titles:
-      ko: Configuration
-    url: /docs/configuration/
+      en: About
+      ko: 소개
+    url: /about.html
 
-  - titles:
-      ko: Navigation
-    url: /docs/navigation/
-
-  - titles:
-      ko: Content
-    url: /docs/content/
+sidebar:
+  critique:
+    - title: 새벽안개, 도파민, 그리고 코메디 | 2017 개인전 비평
+      url: /docs/critique1/
+    - title: Configuration
+      url: /docs/configuration/
+    - title: Navigation
+      url: /docs/navigation/
+    - title: Content
+      url: /docs/content/
