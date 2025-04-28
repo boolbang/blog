@@ -10,11 +10,15 @@ header:
     url: /about.html
 
 critique:
-  - title: 새벽안개, 도파민, 그리고 코메디 | 2017 개인전 비평
+  - titles:
+      ko: 새벽안개, 도파민, 그리고 코메디 | 2017 개인전 비평
     url: /docs/critique1/
-  - title: Configuration
+  - titles:
+      ko: Configuration
     url: /docs/configuration/
-  - title: Navigation
+  - titles:
+      ko: Navigation
     url: /docs/navigation/
-  - title: Content
+  - titles:
+      ko: Content
     url: /docs/content/
