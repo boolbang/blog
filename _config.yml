@@ -1,4 +1,4 @@
-text_skin: dark
+text_skin: default
 highlight_theme: "tomorrow-night-blue"
 url: "https://boolbang.github.io"
 baseurl: "/blog"
