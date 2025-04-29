@@ -3,8 +3,6 @@ layout: article
 title: Home
 aside:
   toc: true
-sidebar:
-  nav: critique
 ---
 
 # 환영합니다!
