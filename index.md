@@ -1,10 +1,11 @@
 ---
 layout: article
 title: Home
+nav: critique
 aside:
   toc: true
-sidebar:
-  nav: navigation
+---
+
 ---
 
 # 환영합니다!

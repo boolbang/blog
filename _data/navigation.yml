@@ -10,12 +10,11 @@ header:
     url: /about.html
 
 critique:
-  titles:
-    - title: 새벽안개, 도파민, 그리고 코메디 | 2017년 개인전 비평
-      url: /docs/critique1/
-    - title: Configuration
-      url: /docs/configuration/
-    - title: Navigation
-      url: /docs/navigation/
-    - title: Content
-      url: /docs/content/
+  - title: 새벽안개, 도파민, 그리고 코메디 | 2017년 개인전 비평
+    url: /docs/critique1/
+  - title: Configuration
+    url: /docs/configuration/
+  - title: Navigation
+    url: /docs/navigation/
+  - title: Content
+    url: /docs/content/
