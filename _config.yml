@@ -68,6 +68,7 @@ mathjax_autoNumber: # false (default), true
 
 ## Mermaid
 mermaid: true # false (default), true
+mermaid_theme: forest  # 또는 dark, neutral, default 등 원하는 테마
 
 ## Chart
 chart: # false (default), true
