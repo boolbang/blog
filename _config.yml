@@ -1,4 +1,4 @@
-text_skin: default
+text_skin: dark
 highlight_theme: "tomorrow-night-blue"
 url: "https://boolbang.github.io"
 baseurl: "/blog"
@@ -10,8 +10,8 @@ lang: kr
 timezone: Asia/Seoul
 
 
-## => Author and Social
-##############################
+# => Author and Social
+# ############################
 author:
   type      : # "person" (default), "organization"
   name      : 불방이
@@ -67,7 +67,7 @@ mathjax: # false (default), true
 mathjax_autoNumber: # false (default), true
 
 ## Mermaid
-mermaid: # false (default), true
+mermaid: true # false (default), true
 
 ## Chart
 chart: # false (default), true
