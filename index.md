@@ -1,8 +1,7 @@
 ---
 layout: article
 title: Home
-aside:
-  toc: true
+nav: critique   
 ---
 
 # 환영합니다!

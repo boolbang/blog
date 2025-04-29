@@ -3,7 +3,6 @@ header:
       en: Archive
       ko: 아카이브
     url: /archive.html
-
   - titles:
       en: About
       ko: 소개
@@ -11,10 +10,4 @@ header:
 
 critique:
   - title: 새벽안개, 도파민, 그리고 코메디 | 2017년 개인전 비평
-    url: /blog/2024/01/01/critique1/
-  - title: Configuration
-    url: /blog/2024/01/02/configuration/
-  - title: Navigation
-    url: /blog/2024/01/03/navigation/
-  - title: Content
-    url: /blog/2024/01/04/content/
+    url: /2025/04/29/critique1/
